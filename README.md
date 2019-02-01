@@ -27,20 +27,20 @@ Reiwious is an unofficial patch for IW4x that attempts to prevent IW4x crashes i
 
 ## F.A.Q
 * Q. Is Reiwious a successor to IW4x? 
-** A: No and it never will be. Reiwious aims to only reduce crashes that you may experience when using IW4x.
+	* A: No and it never will be. Reiwious aims to only reduce crashes that you may experience when using IW4x.
 
 * Q. So does Reiwious make IW4x god tier waifu then? ( ͡° ͜ʖ ͡°)
-** A: You decide but from a gaming perspective, it just works.
+	* A: You decide but from a gaming perspective, it just works.
 
 * Q. Why the name Reiwious tho?
-** A: It just works... it's also kawaii too.
+	* A: It just works... it's also kawaii too.
 
 * Q. Is Reiwious safe to use?
-** A: Yes it is, see [here](https://www.virustotal.com/#/file/c86ccf5afa1e5532a6cbcf741bcc008a317385b6848b628d893b51e08f271cec/detection) for more.
+	* A: Yes it is, see [here](https://www.virustotal.com/#/file/c86ccf5afa1e5532a6cbcf741bcc008a317385b6848b628d893b51e08f271cec/detection) for more.
 
 
 
-## Roadmsp
+## Roadmap
 * Add compatibility for v0.6.0, the latest version of IW4x as of writing.
 * ?
 
