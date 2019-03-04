@@ -1,10 +1,10 @@
 # Reiwious
 
-![Reiwious](https://i.gyazo.com/adda3255294069f29c924c8de468947c.png "Isn't it pretty? ( ͡° ͜ʖ ͡°)")
+![Reiwious](https://i.gyazo.com/d24c0de7f16c101f04b941031c05e818.png "Isn't it pretty? ( ͡° ͜ʖ ͡°)")
 
 
 ## Wait so just WTF is this?
-Reiwious is an unofficial patch for IW4x that attempts to prevent IW4x crashes in order to provide a more enjoyable experience.
+Reiwious is an unofficial patch for IW4x that aims to reduce IW4x crashes in order to provide a more enjoyable experience.
 
 
 
