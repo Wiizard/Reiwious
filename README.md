@@ -1,6 +1,6 @@
 # Reiwious
 
-![Reiwious](https://i.gyazo.com/d24c0de7f16c101f04b941031c05e818.png "Isn't it pretty? ( ͡° ͜ʖ ͡°)")
+![Reiwious](https://i.gyazo.com/93362c3a994e38422050260e29a1408a.png "Isn't it pretty? ( ͡° ͜ʖ ͡°)")
 
 
 ## Wait so just WTF is this?
@@ -41,7 +41,7 @@ Reiwious is an unofficial patch for IW4x that aims to reduce IW4x crashes in ord
 
 
 ## Roadmap
-* Add compatibility for v0.6.0, the latest version of IW4x as of writing.
+* ~~Add compatibility for v0.6.0, the latest version of IW4x as of writing.~~ **- Added in [1.0.2](https://github.com/Wiizard/Reiwious/releases/tag/1.0.2)**
 * ?
 
 
