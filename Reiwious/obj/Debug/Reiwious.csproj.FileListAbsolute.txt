@@ -1,0 +1,10 @@
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Reiwious\Reiwious\bin\Debug\Reiwious.exe.config
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Reiwious\Reiwious\bin\Debug\Reiwious.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Reiwious\Reiwious\bin\Debug\Reiwious.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Reiwious\Reiwious\obj\Debug\Reiwious.Properties.Resources.resources
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Reiwious\Reiwious\obj\Debug\Reiwious.csproj.GenerateResource.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Reiwious\Reiwious\obj\Debug\Reiwious.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Reiwious\Reiwious\obj\Debug\Reiwious.exe
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Reiwious\Reiwious\obj\Debug\Reiwious.pdb
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Reiwious\Reiwious\obj\Debug\Reiwious.csprojAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2017\Projects\Reiwious\Reiwious\obj\Debug\Reiwious.Main.resources
